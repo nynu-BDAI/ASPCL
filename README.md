@@ -1,2 +1,2 @@
 # ASPCL
-The code of ASPCL
+The code of ASPCL.
